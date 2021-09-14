@@ -19,5 +19,5 @@
 ## 如何使用
 
 1. 自行导入`auto.js`脚本文件到安卓设备的`Auto.js`或`Auto.js Pro`，运行脚本
-2. 下载安装[Release](https://github.com/syhien/NJU-APPdaily-Auto.js-script/releases)中打包封装的`apk`，运行程序
+2. 下载安装[Release](https://github.com/syhien/NJU-APPdaily-Auto.js-script/releases/latest)中打包封装的`apk`，运行程序
 
