@@ -1,5 +1,5 @@
 # NJU-APPdaily-Auto.js-script
-基于`Auto.js Pro`构建的、在**Android**设备上可用的、自动化南京大学APP每日健康打卡的`Javascript`脚本
+基于`Auto.js Pro`构建的、在**Android**设备上可用的、自动化南京大学APP每日健康打卡的`JavaScript`脚本
 
 
 
